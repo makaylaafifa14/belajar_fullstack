@@ -16,3 +16,4 @@ class Product
 }
 
 $product = new product('Smartphone', 5000000, 'smartphone terbaru dengan kamera berkualitas tinggi');
+$product = new product('nokia', 2000000, 'nokia terbaru dengan build quality terbaik');
